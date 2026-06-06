@@ -1,0 +1,28 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-05-11 17:29 -0300
+Nmap scan report for team.thm (10.64.131.13)
+Host is up (0.16s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+21/tcp open  ftp     vsftpd 3.0.5
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.13 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 84:1c:02:a2:35:af:9e:62:cc:01:98:67:aa:7c:21:44 (RSA)
+|   256 41:4a:0b:c5:0f:bb:dc:7e:58:2f:36:d8:46:61:92:67 (ECDSA)
+|_  256 67:34:38:6e:0d:f6:f4:e8:11:02:cc:26:4d:1c:73:16 (ED25519)
+80/tcp open  http    Apache httpd 2.4.41 ((Ubuntu))
+|_http-server-header: Apache/2.4.41 (Ubuntu)
+|_http-title: Team
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Linux 4.15 - 5.19 (91%), Linux 5.14 - 6.8 (91%), Linux 5.4 - 5.15 (90%), Linux 4.15 (88%), Crestron XPanel control system (86%), Linux 3.8 - 3.16 (86%), Android 10 - 12 (Linux 4.14 - 4.19) (85%), HP P2000 G3 NAS device (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 3 hops
+Service Info: OSs: Unix, Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   165.79 ms 192.168.128.1
+2   ...
+3   165.91 ms team.thm (10.64.131.13)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 32.22 seconds

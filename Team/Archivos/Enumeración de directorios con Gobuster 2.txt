@@ -1,0 +1,17 @@
+===============================================================
+Gobuster v3.8.2
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://team.thm:80
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.8.2
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+images               (Status: 301) [Size: 305] [--> http://team.thm/images/]
+scripts              (Status: 301) [Size: 306] [--> http://team.thm/scripts/]
+assets               (Status: 301) [Size: 305] [--> http://team.thm/assets/]

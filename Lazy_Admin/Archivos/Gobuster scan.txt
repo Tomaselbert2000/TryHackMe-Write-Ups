@@ -1,0 +1,21 @@
+===============================================================
+Gobuster v3.8.2
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://lazyadmin.thm
+[+] Method:                  GET
+[+] Threads:                 10
+[+] Wordlist:                /usr/share/wordlists/gobuster_wordlist.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.8.2
+[+] Timeout:                 10s
+===============================================================
+Starting gobuster in directory enumeration mode
+===============================================================
+.htaccess            (Status: 403) [Size: 278]
+content              (Status: 301) [Size: 316] [--> http://lazyadmin.thm/content/]
+.htpasswd            (Status: 403) [Size: 278]
+.htpasswds           (Status: 403) [Size: 278]
+===============================================================
+Finished
+===============================================================

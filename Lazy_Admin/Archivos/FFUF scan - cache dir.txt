@@ -1,0 +1,3 @@
+[2K.hta                    [Status: 403, Size: 278, Words: 20, Lines: 10, Duration: 1712ms][0m
+[2K.htpasswd               [Status: 403, Size: 278, Words: 20, Lines: 10, Duration: 4729ms][0m
+[2K.htaccess               [Status: 403, Size: 278, Words: 20, Lines: 10, Duration: 4731ms][0m

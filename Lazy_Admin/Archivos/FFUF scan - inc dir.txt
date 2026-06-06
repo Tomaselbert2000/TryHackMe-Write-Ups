@@ -1,0 +1,6 @@
+[2K.htpasswd               [Status: 403, Size: 278, Words: 20, Lines: 10, Duration: 4438ms][0m
+[2K.hta                    [Status: 403, Size: 278, Words: 20, Lines: 10, Duration: 4444ms][0m
+[2K.htaccess               [Status: 403, Size: 278, Words: 20, Lines: 10, Duration: 4445ms][0m
+[2Kcache                   [Status: 301, Size: 326, Words: 20, Lines: 10, Duration: 167ms][0m
+[2Kfont                    [Status: 301, Size: 325, Words: 20, Lines: 10, Duration: 167ms][0m
+[2Klang                    [Status: 301, Size: 325, Words: 20, Lines: 10, Duration: 167ms][0m
