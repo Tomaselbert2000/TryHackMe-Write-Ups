@@ -1,0 +1,46 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-06-06 21:56 -0300
+Nmap scan report for easypeasy.thm (10.64.137.117)
+Host is up (0.16s latency).
+Not shown: 65532 closed tcp ports (reset)
+PORT      STATE SERVICE VERSION
+80/tcp    open  http    nginx 1.16.1
+|_http-title: Welcome to nginx!
+| http-robots.txt: 1 disallowed entry 
+|_/
+|_http-server-header: nginx/1.16.1
+6498/tcp  open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 30:4a:2b:22:ac:d9:56:09:f2:da:12:20:57:f4:6c:d4 (RSA)
+|   256 bf:86:c9:c7:b7:ef:8c:8b:b9:94:ae:01:88:c0:85:4d (ECDSA)
+|_  256 a1:72:ef:6c:81:29:13:ef:5a:6c:24:03:4c:fe:3d:0b (ED25519)
+65524/tcp open  http    Apache httpd 2.4.43 ((Ubuntu))
+| http-robots.txt: 1 disallowed entry 
+|_/
+|_http-title: Apache2 Debian Default Page: It works
+|_http-server-header: Apache/2.4.43 (Ubuntu)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.99%E=4%D=6/6%OT=80%CT=1%CU=34885%PV=Y%DS=3%DC=T%G=Y%TM=6A24C521
+OS:%P=x86_64-pc-linux-gnu)SEQ(SP=102%GCD=1%ISR=109%TI=Z%CI=Z%II=I%TS=A)SEQ(
+OS:SP=104%GCD=1%ISR=10A%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=106%GCD=1%ISR=109%TI=Z%C
+OS:I=Z%II=I%TS=A)SEQ(SP=106%GCD=1%ISR=10C%TI=Z%CI=Z%II=I%TS=A)SEQ(SP=FB%GCD
+OS:=1%ISR=110%TI=Z%CI=Z%TS=A)OPS(O1=M4E8ST11NW6%O2=M4E8ST11NW6%O3=M4E8NNT11
+OS:NW6%O4=M4E8ST11NW6%O5=M4E8ST11NW6%O6=M4E8ST11)WIN(W1=F4B3%W2=F4B3%W3=F4B
+OS:3%W4=F4B3%W5=F4B3%W6=F4B3)ECN(R=Y%DF=Y%T=40%W=F507%O=M4E8NNSNW6%CC=Y%Q=)
+OS:T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=
+OS:0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T
+OS:6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+
+OS:%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK
+OS:=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 3 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT       ADDRESS
+1   160.42 ms 192.168.128.1
+2   ...
+3   161.59 ms easypeasy.thm (10.64.137.117)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 890.26 seconds
