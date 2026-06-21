@@ -1,0 +1,3 @@
+Loaded 1 password hash (ZIP, WinZip [PBKDF2-SHA1 512/512 AVX512BW 16x])
+Cost 1 (HMAC size) is 78 for all loaded hashes
+alien            (8702.zip/To_agentR.txt)     
