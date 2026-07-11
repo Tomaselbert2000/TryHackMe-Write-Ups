@@ -15,6 +15,7 @@ Soy Tomas, estudiante de Desarrollo de Aplicaciones y un apasionado por la ciber
 | TryHackMe | **Easy Peasy** | Fácil | Enumeración de directorios, esteganografía, crackeo de hashes, ataque a Cronjobs | [📄 Leer Write-up](./Easy_Peasy/Easy_Peasy.md) |
 | TryHackMe | **Agent Sudo** | Fácil | Esteganografía, crackeo de hashes, ataque de fuerza bruta, vulnerabilidad sudo | [📄 Leer Write-up](./Agent_Sudo/Agent_Sudo.md) |
 | TryHackMe | **Brute It** | Fácil | Crackeo de hashes, ataque de fuerza bruta, vulnerabilidad cat | [📄 Leer Write-up](./Brute_It/Brute_It.md) |
+| TryHackMe | **IDE** | Fácil | Escaneo de puertos, enumeración, RCE, FTP | [📄 Leer Write-up](./IDE/IDE.md) |
 
 *(Nota: Este índice se actualiza a medida que completo nuevos laboratorios).*
 
