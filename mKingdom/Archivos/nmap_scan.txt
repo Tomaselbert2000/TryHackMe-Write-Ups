@@ -1,0 +1,34 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-07-13 12:08 -0300
+Stats: 0:05:20 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+Nmap scan report for mkingdom.thm (10.67.134.62)
+Host is up (0.16s latency).
+Not shown: 65534 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+85/tcp open  http    Apache httpd 2.4.7 ((Ubuntu))
+|_http-title: 0H N0! PWN3D 4G4IN
+|_http-server-header: Apache/2.4.7 (Ubuntu)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.99%E=4%D=7/13%OT=85%CT=1%CU=33490%PV=Y%DS=3%DC=T%G=Y%TM=6A55030
+OS:7%P=x86_64-pc-linux-gnu)SEQ(SP=104%GCD=3%ISR=10B%TI=Z%TS=8)SEQ(SP=105%GC
+OS:D=1%ISR=10B%TI=Z%CI=I%II=I%TS=8)SEQ(SP=105%GCD=1%ISR=10C%TI=Z%TS=8)SEQ(S
+OS:P=106%GCD=1%ISR=109%TI=Z%CI=I%TS=8)SEQ(SP=106%GCD=1%ISR=10C%TI=Z%CI=I%TS
+OS:=8)OPS(O1=M4E8ST11NW7%O2=M4E8ST11NW7%O3=M4E8NNT11NW7%O4=M4E8ST11NW7%O5=M
+OS:4E8ST11NW7%O6=M4E8ST11)WIN(W1=68DF%W2=68DF%W3=68DF%W4=68DF%W5=68DF%W6=68
+OS:DF)ECN(R=Y%DF=Y%T=40%W=6903%O=M4E8NNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=
+OS:S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q
+OS:=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A
+OS:%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y
+OS:%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T
+OS:=40%CD=S)
+
+Network Distance: 3 hops
+
+TRACEROUTE (using port 1723/tcp)
+HOP RTT       ADDRESS
+1   163.24 ms 192.168.128.1
+2   ...
+3   164.59 ms mkingdom.thm (10.67.134.62)
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 914.44 seconds
