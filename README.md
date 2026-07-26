@@ -17,6 +17,7 @@ Soy Tomas, estudiante de Desarrollo de Aplicaciones y un apasionado por la ciber
 | TryHackMe | **Brute It** | Fácil | Crackeo de hashes, ataque de fuerza bruta, vulnerabilidad cat | [📄 Leer Write-up](./Brute_It/Brute_It.md) |
 | TryHackMe | **IDE** | Fácil | Escaneo de puertos, enumeración, RCE, FTP | [📄 Leer Write-up](./IDE/IDE.md) |
 | TryHackMe | **mKingdom** | Fácil | Enumeración de directorios, Concrete5 CMS, envenenamiento de DNS, vulnerabilidad de tareas programadas | [📄 Leer Write-up](./mKingdom/mKingdom.md) |
+| TryHackMe | **Publisher** | Fácil | Enumeración de directorios, SPIP, RCE, App Armor | [📄 Leer Write-up](./Publisher/Publisher.md) |
 
 *(Nota: Este índice se actualiza a medida que completo nuevos laboratorios).*
 
