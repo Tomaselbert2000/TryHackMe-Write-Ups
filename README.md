@@ -19,6 +19,7 @@ Soy Tomas, estudiante de Desarrollo de Aplicaciones y un apasionado por la ciber
 | TryHackMe | **mKingdom** | Fácil | Enumeración de directorios, Concrete5 CMS, envenenamiento de DNS, vulnerabilidad de tareas programadas | [📄 Leer Write-up](./mKingdom/mKingdom.md) |
 | TryHackMe | **Publisher** | Fácil | Enumeración de directorios, SPIP, RCE, App Armor | [📄 Leer Write-up](./Publisher/Publisher.md) |
 | TryHackMe | **Soupedecode 01** | Fácil | Kerberos, SMB, Active Directory, crackeo de hashes | [📄 Leer Write-up](./Soupedecode%2001/Soupedecode.md) |
+| TryHackMe | **Blueprint** | Fácil | Enumeración de directiorios, osCommerce, uso de PoC, explotación de RCE, crackeo de hashes | [📄 Leer Write-up](./Blueprint/Blueprint.md) |
 
 *(Nota: Este índice se actualiza a medida que completo nuevos laboratorios).*
 
