@@ -1,0 +1,6 @@
+[2K                        [Status: 200, Size: 2454, Words: 499, Lines: 74, Duration: 164ms][0m
+[2Kcss                     [Status: 301, Size: 153, Words: 6, Lines: 11, Duration: 161ms][0m
+[2Kjs                      [Status: 301, Size: 152, Words: 6, Lines: 11, Duration: 159ms][0m
+[2Kvendor                  [Status: 301, Size: 156, Words: 6, Lines: 11, Duration: 156ms][0m
+[2Kpieces                  [Status: 301, Size: 156, Words: 6, Lines: 11, Duration: 164ms][0m
+[2K                        [Status: 200, Size: 2454, Words: 499, Lines: 74, Duration: 174ms][0m
