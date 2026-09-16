@@ -22,6 +22,7 @@ Soy Tomas, estudiante de Desarrollo de Aplicaciones y un apasionado por la ciber
 | TryHackMe | **Blueprint** | Fácil | Enumeración de directorios, osCommerce, uso de PoC, explotación de RCE, crackeo de hashes | [📄 Leer Write-up](./Blueprint/Blueprint.md) |
 | TryHackMe | **Silver Platter** | Fácil | Enumeración de directorios, Silverpeas OSS, vulnerabilidad IDOR, movimiento lateral | [📄 Leer Write-up](./Silver%20Platter/Silver_Platter.md) |
 | TryHackMe | **Fools Mate** | Fácil | Escaneo de puertos, enumeración de directorios, OWASP Zap ByPass | [📄 Leer Write-up](./Fools%20Mate/Fools_Mate.md) |
+| TryHackMe | **Creative** | Fácil | Enumeración de subdominios, SSRF, crackeo de passphrase, librerías compartidas, abuso de variables de entorno | [📄 Leer Write-up](./Creative/Creative.md) |
 
 *(Nota: Este índice se actualiza a medida que completo nuevos laboratorios).*
 

@@ -1,0 +1,20 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-09-14 11:16 -0300
+Nmap scan report for creative.thm (10.64.144.13)
+Host is up (0.16s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 8.2p1 Ubuntu 4ubuntu0.11 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 d3:c4:91:d0:2d:39:05:df:80:07:bc:b7:ff:ce:7b:ec (RSA)
+|   256 1b:2e:4b:40:fb:31:e6:9f:3a:b9:26:94:c2:4b:29:0c (ECDSA)
+|_  256 62:ea:0a:f6:04:78:ce:7f:22:e7:06:fa:9e:f7:89:2c (ED25519)
+80/tcp open  http    nginx 1.18.0 (Ubuntu)
+|_http-title: Creative Studio | Free Bootstrap 4.3.x template
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Linux 4.15 - 5.19 (91%), Linux 5.14 - 6.8 (91%), Linux 4.15 (88%), Linux 5.4 - 5.15 (88%), Crestron XPanel control system (86%), Linux 3.8 - 3.16 (86%), Android 10 - 12 (Linux 4.14 - 4.19) (85%), HP P2000 G3 NAS device (85%)
+No exact OS matches for host (test conditions non-ideal).
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 28.30 seconds

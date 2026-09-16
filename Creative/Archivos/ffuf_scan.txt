@@ -1,0 +1,3 @@
+[2K                        [Status: 200, Size: 37589, Words: 14867, Lines: 686, Duration: 164ms][0m
+[2Kassets                  [Status: 301, Size: 178, Words: 6, Lines: 8, Duration: 166ms][0m
+[2K                        [Status: 200, Size: 37589, Words: 14867, Lines: 686, Duration: 161ms][0m

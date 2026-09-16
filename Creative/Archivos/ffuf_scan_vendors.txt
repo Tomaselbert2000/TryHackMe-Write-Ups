@@ -1,0 +1,4 @@
+[2K                        [Status: 403, Size: 162, Words: 4, Lines: 8, Duration: 164ms][0m
+[2K                        [Status: 403, Size: 162, Words: 4, Lines: 8, Duration: 164ms][0m
+[2Kbootstrap               [Status: 301, Size: 178, Words: 6, Lines: 8, Duration: 167ms][0m
+[2Kjquery                  [Status: 301, Size: 178, Words: 6, Lines: 8, Duration: 157ms][0m
